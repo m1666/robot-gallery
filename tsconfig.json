@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    // 自动适配 any
+//    "noImplicitAny": false,
     "target": "es5",
     "lib": [
       "dom",
